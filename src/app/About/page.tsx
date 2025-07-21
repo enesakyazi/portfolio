@@ -37,7 +37,6 @@ function About() {
           </AnimatedSection>
 
           <AnimatedSection direction="up" delay={500}>
-            
             <h2 className="text-xl text-blue-300 font-semibold bg-card px-6 py-3 rounded-full border border-blue-500/20">
               Software Developer
             </h2>
@@ -104,7 +103,7 @@ function About() {
               <h1 className="text-3xl font-bold text-slate-200">About me</h1>
               <div className="w-1/4 h-1 bg-slate-600 rounded-full"></div>
               <p className="w-full md:w-2/3 lg:w-1/2 text-xl text-slate-300 text-center leading-relaxed">
-                Hello, I'm Enes. I graduated from Istanbul Kultur University
+                Hello, I&apos;m Enes. I graduated from Istanbul Kultur University
                 Computer Engineering department in 2024. After completing my
                 internship on web front-end development, I had the opportunity to
                 work as a freelancer. Later, I completed my graduation project on

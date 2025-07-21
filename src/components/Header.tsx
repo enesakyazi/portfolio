@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import React from "react";
-import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 
 function Header() {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import AnimatedSection from "@/components/AnimatedSection";
-import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 function Projects() {
   const projects = [
@@ -36,7 +36,7 @@ function Projects() {
           <h1 className="text-4xl font-bold text-slate-200">Projects</h1>
           <div className="w-1/4 h-1 bg-gradient-primary rounded-full"></div>
           <p className="text-slate-300 text-center max-w-2xl">
-            Here are some of the projects I've worked on.
+            Here are some of the projects I&apos;ve worked on.
           </p>
         </div>
       </AnimatedSection>
