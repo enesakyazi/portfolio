@@ -9,7 +9,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="pt-24">
+      <body className="pt-16 sm:pt-20 lg:pt-24">
         <Header />
         {children}
         <Footer />
