@@ -93,7 +93,7 @@ function Footer() {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/melihenesakyazi/"
+                      href="https://www.linkedin.com/in/enes-akyaz%C4%B1-347902196/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-x-2 sm:gap-x-3 text-slate-300 hover:text-blue-400 transition-colors group text-sm sm:text-base"
@@ -104,7 +104,7 @@ function Footer() {
                   </li>
                   <li>
                     <a
-                      href="https://www.instagram.com/melihenesakyazi/"
+                      href="https://www.instagram.com/enesakyazi/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-x-2 sm:gap-x-3 text-slate-300 hover:text-blue-400 transition-colors group text-sm sm:text-base"
